@@ -118,6 +118,10 @@ python ray_tracer.py
 │   ├── get_checkerboard_color()
 │   ├── phong_shading()
 │   └── render() [kernel]
+
+## 动图演示
+<img width="800" height="450" alt="2026-05-0120-59-17-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9c4c7322-7b2e-488a-83ef-b4cad5cc2c34" />
+
 └── 主循环
     ├── GUI 控件
     └── 渲染循环
