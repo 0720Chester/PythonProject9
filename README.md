@@ -126,4 +126,4 @@ python ray_tracer.py
 ```
 
 ## 动图演示
-<img width="800" height="450" alt="2026-05-0120-59-17-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9c4c7322-7b2e-488a-83ef-b4cad5cc2c34" />
+https://ezgif.com/save/ezgif-70b246d87722c631.gif
