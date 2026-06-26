@@ -2,6 +2,12 @@
 
 这是一个基于 Taichi 语言实现的 Whitted 风格光线追踪渲染器，支持多种材质和实时交互控制。
 
+### 计算机科学与技术
+
+### 202411081115
+
+### 王旭
+
 ## 功能特性
 
 - **多种材质类型**
@@ -126,4 +132,4 @@ python ray_tracer.py
 ```
 
 ## 动图演示
-https://ezgif.com/save/ezgif-70b246d87722c631.gif
+<img width="800" height="450" alt="2026-05-0120-59-17-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/064555c2-390c-4e1d-85de-e01df1264fd3" />
